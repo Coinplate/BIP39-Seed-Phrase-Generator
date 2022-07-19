@@ -10,3 +10,5 @@ You can use this tool 100% offline. For security it is preferable to use offline
 
 
 This tool is based on Ian Coleman's mnemonics code converter.
+
+See the tool in action - [BIP39 Seed Phrase Generator](https://getcoinplate.com/bip39-seed-phrase-mnemonics-generator-offline-online-tool/)
