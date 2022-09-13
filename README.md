@@ -26,7 +26,8 @@ You can use this tool 100% offline. For security it is preferable to use offline
 
 This tool is based on Ian Coleman's mnemonics code converter.
 
-
+Source code:
+You can see the full source code in standalone, offline html file. Alternatively you can check the individual css and js files in the online version folder, where the direct copy of website version is stored.
 
 
 **If you found this tool useful, you can tip us or buy a metal crypto wallet from [our store](https://getcoinplate.com/).**
