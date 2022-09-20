@@ -21,10 +21,12 @@ Advanced mode features:
 - calculate derivation paths/addresses from mnemonics,
 - use your own entropy to create seed phrase.
 
-You can use this tool 100% offline. For security it is preferable to use offline fresh system install or system on live usb. Download standalone offline .html file and open it in a browser.
+**You can use this tool 100% offline.** For security it is preferable to use offline fresh system install or system on live usb. Download standalone offline .html file and open it in a browser.
 
 
 This tool is based on Ian Coleman's mnemonics code converter.
+
+**It's important to have a proper [seed phrase storage](https://getcoinplate.com/blog/the-best-crypto-seed-phrase-storage-the-ultimate-guide/).**
 
 Source code:
 You can see the full source code in standalone, offline html file. Alternatively you can check the individual css and js files in the online version folder, where the direct copy of website version is stored. This is free and opensource tool.
