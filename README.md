@@ -42,6 +42,8 @@ You can see the full source code in standalone, offline html file. Alternatively
 
 
 
+## Check out our other tools:
+**[BIP39 Recoverer - Seed Phrase recovery tool](https://getcoinplate.com/bip39-recoverer-seed-phrase-recovery-tool/)**
 
 <details><summary> License (click to expand) </summary
 <p>The MIT License (MIT) Copyright (c) 2022 Coinplate</p>
